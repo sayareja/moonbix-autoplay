@@ -1,0 +1,54 @@
+TUTORIAL RUNNING BOT
+
+System Requirements:
+- NodeJS LTS ( 20.17 )
+
+FOR ARM/Mac/Android use pentil_binance_arm.js
+FOR PC pentil_binance_x64.js
+
+FOR WINDOWS:
+
+- Link Download https://nodejs.org/dist/v20.17.0/node-v20.17.0-x64.msi
+- Open your terminal and type this command
+
+	npm install
+	node pentil_binance_x64.js
+
+You will see HWID and send it to Seller for register your HWID.
+
+
+FOR C9:
+
+- Open your terminal
+
+	sudo apt update && sudo apt upgrade -y
+	curl -o- https://raw.githubusercontent.com/nvm-sh/nvm/v0.39.5/install.sh | bash
+	source ~/.nvm/nvm.sh
+	nvm --version
+	nvm install --lts
+	node --version
+	npm --version
+	nvm use --lts
+	nvm alias default lts/*
+	npm install
+	node pentil_binance_x64.js
+
+You will see HWID and send it to Seller for register your HWID.
+
+
+For Termux:
+
+- Open Your Terminal
+
+	pkg update && pkg upgrade
+	pkg install curl
+	curl -o- https://raw.githubusercontent.com/nvm-sh/nvm/v0.39.5/install.sh | bash
+	source ~/.bashrc
+	nvm --version
+	nvm install --lts
+	node --version
+	npm --version
+	npm install
+	node pentil_binance_arm.js
+
+You will see HWID and send it to Seller for register your HWID.
