@@ -1,4 +1,5 @@
-![image](https://github.com/user-attachments/assets/b61a859a-4808-44f2-a71a-c430a61f9931)
+![image](https://github.com/user-attachments/assets/8d07f0c5-98b6-4f75-9171-e70010875b80)
+
 
 Feature:
 - Auto play game
@@ -6,5 +7,8 @@ Feature:
 - Bypass waiting game (Fastest)
 - Skip Banned Account
 - Multi Account
+- Winrate setting
+- Auto Complete Task
+- Auto Check in Daily
 
 Telegram Channel: https://t.me/pentilofficial
